@@ -1,0 +1,161 @@
+{
+  "main": {
+    "id": "defbb2561dbe3b38",
+    "type": "split",
+    "children": [
+      {
+        "id": "8448eae3b192d10c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "00046f492cf285f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "references/인간은 기도를 이루어주는 자.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "59279a25ee10d38b",
+    "type": "split",
+    "children": [
+      {
+        "id": "26e6b4c43d345dcc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0de544b273e02857",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a312ad80dc707bc3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d69a18dcb2425ba1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 262.5
+  },
+  "right": {
+    "id": "56ed9bdf4be4c9dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a5619a37f963d61",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "75c0599b7f2d9483",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "references/인간은 기도를 이루어주는 자.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b82f43971f53cde6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "references/인간은 기도를 이루어주는 자.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ccbc18b217e4c8c3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bda150f4e17f515a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "references/인간은 기도를 이루어주는 자.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "00046f492cf285f3",
+  "lastOpenFiles": [
+    "notes/기도의 효과를 믿는 방법.md",
+    "references/인간은 기도를 이루어주는 자.md",
+    "references",
+    "templates/{{title}}.md",
+    "Welcome.md",
+    "notes",
+    "templates"
+  ]
+}
