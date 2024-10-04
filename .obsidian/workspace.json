@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "references/인간은 기도를 이루어주는 자.md",
+                "file": "notes/기도의 효과를 믿는 방법.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "references/인간은 기도를 이루어주는 자.md",
+                "file": "notes/기도의 효과를 믿는 방법.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "references/인간은 기도를 이루어주는 자.md",
+                "file": "notes/기도의 효과를 믿는 방법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "references/인간은 기도를 이루어주는 자.md"
+                "file": "notes/기도의 효과를 믿는 방법.md"
               }
             }
           }
@@ -145,15 +145,21 @@
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false
+      "command-palette:명령어 팔레트 열기": false,
+      "kr-book-info-plugin:Add Book Info": false
     }
   },
   "active": "00046f492cf285f3",
   "lastOpenFiles": [
+    "templates/{{title}}.md",
     "notes/기도의 효과를 믿는 방법.md",
     "references/인간은 기도를 이루어주는 자.md",
+    "book_info/습관의 힘 반복되는 행동이 만드는 극적인 변화.md",
+    "book_info/네빌고다드 5일간의 강의 나에 대한 관념이 나의 모든 것을 결정한다.md",
+    "아주 작은 습관의 힘 최고의 변화는 어떻게 만들어지는가.md",
+    "book_info/아주 작은 습관의 힘 최고의 변화는 어떻게 만들어지는가.md",
+    "book_info",
     "references",
-    "templates/{{title}}.md",
     "Welcome.md",
     "notes",
     "templates"

@@ -1,5 +1,7 @@
 [
   "obsidian-icon-folder",
   "highlightr-plugin",
-  "obsidian-linter"
+  "obsidian-linter",
+  "kr-book-info-plugin",
+  "obsidian-git"
 ]

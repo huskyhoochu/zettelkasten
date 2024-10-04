@@ -1,0 +1,11 @@
+{
+  "kr-book-info-plugin:add-book-info": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "B"
+    }
+  ]
+}

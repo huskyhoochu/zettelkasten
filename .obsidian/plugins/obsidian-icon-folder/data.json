@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiInfo",
       "LiLink",
       "LiArchive",
       "LiAlbum"
@@ -33,5 +34,6 @@
   },
   "notes": "LiAlbum",
   "templates": "LiArchive",
-  "references": "LiLink"
+  "references": "LiLink",
+  "book_info": "LiInfo"
 }
